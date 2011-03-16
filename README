@@ -1,0 +1,7 @@
+This is an implementation of the Google Pregel programming model using MPI and C++ templates.
+You are welcome to try it out.
+You can write your application by modifying the test programs in the apps directory.
+
+Any comments or suggestions go to chuntao.hong@gmail.com.
+
+If you are interested in developing the code, please please contact me. I am tired of doing it alone.
